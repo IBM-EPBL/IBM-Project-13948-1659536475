@@ -2,7 +2,4 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 Team members
-Murari Reddy Sudarsan 
-Monish V M
-Abhay Krishnan S
-Shree Sharanyaa R
+Murari Reddy Sudarsan, Monish V M, Abhay Krishnan S, Shree Sharanyaa R
